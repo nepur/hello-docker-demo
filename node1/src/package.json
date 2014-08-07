@@ -1,0 +1,11 @@
+{
+  "name": "node1",
+  "version": "0.0.1",
+  "description": "First Node Server",
+  "main": "index.js",
+  "author": "Rupen Patel rupenp@yahoo.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "*"
+  }
+}
